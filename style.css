@@ -208,7 +208,7 @@
   }
 
   .p1{
-    padding: 0.3rem 10px .8rem 1rem;
+    padding: 0.1rem 10px .8rem 1rem;
     border: 1px solid #fff4;
     background-color: #ffffff4d;
     border-radius: 500px;
@@ -235,7 +235,7 @@
     /* padding: 0%; */
     position: absolute;
     /* height: 10rem; */
-    top: 1rem;
+    top: 1rem;0.3rem 10px .8rem 1rem;
     left: 0;
     width: 3rem;
     height: 1.8rem;
@@ -244,7 +244,7 @@
 
   .p2{
     display: flex;
-    padding: 0.7rem 10px .8rem 3rem;
+    padding: 0.5rem 10px .8rem 3rem;
     border: 1px solid #fff4;
     background-color: #ffffff4d;
     border-radius: 500px;
